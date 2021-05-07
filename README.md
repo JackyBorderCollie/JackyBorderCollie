@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Scratch Nitro extension
+- 🌱 I’m currently learning HTML and some CSS
+- 👯 I’m looking to collaborate on Scratch Nitro extension
+- 🤔 I’m looking for help with Scratch Nitro extension
+- 💬 Ask me about Scratch
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like Border Collies and Beagles
 <!--
 **JackyBorderCollie/JackyBorderCollie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
