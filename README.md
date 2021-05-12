@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on Scratch Nitro extension
 - 🤔 I’m looking for help with Scratch Nitro extension
 - 💬 Ask me about Scratch
+- 📫 How to reach me: [Scratch](https://scratch.mit.edu/users/JackyBorderCollie/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like Border Collies and Beagles
 <!--
