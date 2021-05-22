@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Scratch Nitro extension
+- 🔭 I’m currently working on Scratch Nitro extension and Funnel
 - 🌱 I’m currently learning HTML and some CSS
 - 👯 I’m looking to collaborate on Scratch Nitro extension
 - 🤔 I’m looking for help with Scratch Nitro extension
